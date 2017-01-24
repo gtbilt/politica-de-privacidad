@@ -1,0 +1,14 @@
+{
+  "name": "privacy-gtbilt",
+  "version": "1.0.0",
+  "description": "privacy policy for gtbilt.com",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rigoberto Acifuina (r.acifuina@gtbilt.com)",
+  "license": "ISC"
+}
