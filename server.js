@@ -1,3 +1,14 @@
+/*
+GTBILT, S.A.
+Guatemala City, Guatemala
+Created by Rigoberto Acifuina
+January, 2017
+*/
+
+/*
+Static content server for the privacy policy.
+*/
+
 var http = require('http');
 var fs = require('fs');
 var index = fs.readFileSync('index.html');
