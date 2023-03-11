@@ -1,0 +1,14 @@
+{
+  "name": "politica-de-privacidad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve public"
+  },
+  "repository": "git@github.com:gtbilt/politica-de-privacidad.git",
+  "author": "Rigoberto Acifuina <racifuina@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
